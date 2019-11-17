@@ -8,3 +8,7 @@ I am fine
 Hi how are you
 
 >>>>>>> Stashed changes
+
+
+
+Hi This new project
